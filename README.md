@@ -3,6 +3,7 @@ Site address -> https://reconnect-master.github.io/portfolio/
 Structure:
 "One Main Portfolio Repo with Subfolders"
 
+"""
 portfolio/
 │
 ├── index.html             ← Main landing page
@@ -13,6 +14,7 @@ portfolio/
 ├── project-2/
 │   └── index.html
 ...
+"""
 
 How it works:
 - index.html is your main page with links to each project.
