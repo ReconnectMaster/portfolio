@@ -1,9 +1,9 @@
-site address -> https://reconnect-master.github.io/portfolio/
+Site address -> https://reconnect-master.github.io/portfolio/
 
 Structure:
 "One Main Portfolio Repo with Subfolders"
-Structure:
-my-portfolio/
+
+portfolio/
 │
 ├── index.html             ← Main landing page
 ├── style.css
