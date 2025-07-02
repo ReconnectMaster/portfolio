@@ -1,0 +1,9 @@
+<!--
+you can add a subfolder named image inside the project1 folder of your repository. To do this, follow these steps:
+
+Using GitHub Web Interface:
+Navigate to your repo at project1.
+Click the Add file button, then select Create new file.
+In the filename field, type image/.gitkeep (or any filename after image/). This will create the image subfolder.
+Add some content (it can be empty), then commit the new file.
+-->
