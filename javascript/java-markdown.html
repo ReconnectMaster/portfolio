@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Markdown Page</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div id="content"></div>
+
+    <script>
+        const markdownText = "# Hello World \n\n This is now **formatted**!";
+        document.getElementById('content').innerHTML = marked.parse(markdownText);
+    </script>
+</body>
+</html>
