@@ -1,11 +1,11 @@
-Site address -> https://reconnectmaster.github.io/portfolio/
+Site address -> https://reconnectmaster.github.io/playground/
 Promptpay QR -> https://promptpay2.me/
 
 Structure:
 "One Main Portfolio Repo with Subfolders"
 
 """
-portfolio/
+playground/
 │
 ├── index.html             ← Main landing page
 ├── style.css
